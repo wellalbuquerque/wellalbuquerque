@@ -6,7 +6,7 @@
 ## Olá, sou Wellington Albuquerque, seja bem vindo! <img src="https://media.giphy.com/media/ZNFmtw8hXOJu8/giphy.gif" width="50">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?duration=15000&color=3164F7&height=100&lines=Como+posso+ajudar%3F&size=25&center=true&vCenter=true&lines=Como+posso+ajudar%3F;Open+Source+Contributor">
+<img src="https://readme-typing-svg.herokuapp.com?duration=25000&color=3164F7&height=100&lines=Como+posso+ajudar%3F">
 </p>
 
 ----
