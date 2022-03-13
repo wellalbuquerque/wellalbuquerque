@@ -6,11 +6,12 @@
 ## Olá, sou Wellington Albuquerque, seja bem vindo! <img src="https://media.giphy.com/media/ZNFmtw8hXOJu8/giphy.gif" width="50">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
+<img src="https://readme-typing-svg.herokuapp.com/?duration=15000&color=3164F7&height=100&lines=Como+posso+ajudar%3F&size=25&center=true&vCenter=true&lines=Como+posso+ajudar%3F;Open+Source+Contributor">
 </p>
 
 ----
-## Conecte-se comigo através de: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+## Conecte-se comigo através de: <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47fzu2s1k6xoqp94hs7gta1brc34wp5b50fcsgug2k&rid=giphy.gif&ct=g" width="50">
 <br>
 <div> 
   
