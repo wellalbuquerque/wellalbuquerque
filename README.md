@@ -5,6 +5,13 @@
 
 ## Olá, sou Wellington Albuquerque, seja bem vindo! <img src="https://media.giphy.com/media/ZNFmtw8hXOJu8/giphy.gif" width="50">
 
+<div align="center">
+  <a href="https://github.com/wellalbuquerque">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellalbuquerque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellalbuquerque&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?duration=25000&color=3164F7&height=100&lines=Como+posso+ajudar%3F">
 </p>
@@ -20,12 +27,6 @@
  <a href="https://discord.gg/874410753279553576" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:wellalbuquerquewell@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
-</div>
-<div align="center">
-  <a href="https://github.com/wellalbuquerque">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellalbuquerque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellalbuquerque&layout=compact&langs_count=7&theme=dracula"/>
-    
 </div>
 
   ## Sistemas operacionais
